@@ -4,7 +4,7 @@
 
 - [ ] Exploratory Data Analysis Projects (EDA)
 	- [ ] Iris Data
-	- [ ] [Survey Data](###EDA-Survey-Data)	
+	- [ ] [Survey Data](#EDA-Survey-Data)	
 - [ ] Sentiment Analysis
 - [ ] Recommendation
 	- [ ] Movie Recommendation
