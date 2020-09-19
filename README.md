@@ -4,10 +4,12 @@
 ## IDEAS
 
 # - [ ] Exploratory Data Analysis Projects (EDA)
-	- [ ] [EDA Survey Data](https://github.com/okkymabruri/data-analysis-projects/EDA-survey-age-interest)
-	
-	Survey data with 425331 rows
-	
+	- [ ] Iris Data
+	- [ ] [Survey Data](## EDA Survey Data)	
 # - [ ] Sentiment Analysis
-# - [ ] Building Chatbots
-# - [ ] Movie Recommendation System
+# - [ ] Recommendation
+	- [ ] Movie Recommendation
+	
+	
+## [EDA Survey Data](https://github.com/okkymabruri/data-analysis-projects/EDA-survey-age-interest)
+Survey data contain 425331 rows
