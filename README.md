@@ -1,13 +1,25 @@
 # DATA ANALYSIS PROJECT (SOON)
 
-## IDEAS
+## TABLE OF CONTENT
 
-- [ ] Exploratory Data Analysis Projects (EDA)
-	- [ ] Iris Data
-	- [ ] [Survey Data](#EDA-Survey-Data)	
+- [X] Exploratory Data Analysis Projects (EDA)
+	- [X] [Iris Data](#EDA-iris)
+	- [ ] [Survey Data](#EDA-Survey-Data)
 - [ ] Sentiment Analysis
 - [ ] Recommendation
 	- [ ] Movie Recommendation
 
+## IDEAS
+
+
+### [EDA-iris](https://github.com/okkymabruri/data-analysis-projects/EDA-iris)
+Feature:
+- [X] Analysis
+- [ ] Classification
+- [ ] Machine Learning Prediction
+
 ### [EDA-Survey-Data](https://github.com/okkymabruri/data-analysis-projects/EDA-survey-age-interest)
-Survey data with 425331 rows
+Feature:
+- [ ] Missing Value Handling
+- [ ] Classification
+
