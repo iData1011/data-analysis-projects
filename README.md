@@ -13,7 +13,10 @@
 
 
 ### [EDA-iris](https://github.com/okkymabruri/data-analysis-projects/EDA-iris)
-Feature:
+
+--PIC
+--LINK NOTEBOOK
+--Feature:
 - [X] Analysis
 - [ ] Classification
 - [ ] Machine Learning Prediction
