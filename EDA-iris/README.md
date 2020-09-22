@@ -7,3 +7,4 @@
 ![Slide7](https://github.com/okkymabruri/data-analysis-projects/raw/master/EDA-iris/image/Slide7.jpg)
 ![Slide8](https://github.com/okkymabruri/data-analysis-projects/raw/master/EDA-iris/image/Slide8.jpg)
 ![Slide9](https://github.com/okkymabruri/data-analysis-projects/raw/master/EDA-iris/image/Slide9.jpg)
+![Slide10](https://github.com/okkymabruri/data-analysis-projects/raw/master/EDA-iris/image/Slide10.jpg)
