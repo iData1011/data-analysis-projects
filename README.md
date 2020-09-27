@@ -12,7 +12,7 @@
 ## IDEAS
 
 
-### [EDA-iris](https://github.com/okkymabruri/data-analysis-projects/EDA-iris)
+### [EDA-iris](https://github.com/okkymabruri/data-analysis-projects/tree/master/EDA-iris)
 
 --PIC
 
