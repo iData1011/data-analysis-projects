@@ -3,8 +3,8 @@
 ## TABLE OF CONTENT
 
 - [X] Exploratory Data Analysis Projects (EDA)
-	- [X] [Iris Data](#EDA-iris)
-	- [ ] [Survey Data](#EDA-Survey-Data)
+	- [X] [iris](https://github.com/okkymabruri/data-analysis-projects/tree/master/iris)
+	- [X] [groceries](https://github.com/okkymabruri/data-analysis-projects/tree/master/groceries)
 - [ ] Sentiment Analysis
 - [ ] Recommendation
 	- [ ] Movie Recommendation
@@ -12,28 +12,22 @@
 ## IDEAS
 
 
-### [EDA-iris](https://github.com/okkymabruri/data-analysis-projects/tree/master/EDA-iris)
-
---PIC
-
---LINK NOTEBOOK
-
---Feature:
+### [iris](https://github.com/okkymabruri/data-analysis-projects/tree/master/iris)
+Language : Python
 
 - [X] Analysis
 - [ ] Classification
 - [ ] Machine Learning Prediction
 
-### [EDA-Survey-Data](https://github.com/okkymabruri/data-analysis-projects/EDA-survey-age-interest)
-Feature:
-- [ ] Missing Value Handling
-- [ ] Classification
+### [groceries](https://github.com/okkymabruri/data-analysis-projects/tree/master/groceries)
+Language : R
+
+- [X] Association rules
 
 
+<--
+--PIC
 
-## LIBRARY
-numpy
-numpy is multi-dimensional arrays and matrices library
-pandas is data analysis and manipulation tool
-seaborn is python data visualization library based on matplotlib
-matplotlib.pyplot is plotting library for the Python programming language
+--LINK NOTEBOOK
+
+--Feature
