@@ -25,7 +25,7 @@ Language : R
 - [X] Association rules
 
 
-<--
+<!--
 --PIC
 
 --LINK NOTEBOOK
