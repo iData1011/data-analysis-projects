@@ -11,12 +11,12 @@
 
 ## IDEAS
 
-
 ### [iris](https://github.com/okkymabruri/data-analysis-projects/tree/master/iris)
 Language : Python
 
 - [X] Analysis
 - [ ] Classification
+- [X] [SVM with tuning parameter](https://github.com/okkymabruri/data-analysis-projects/tree/master/iris/iris-svm-tuning-parameter.ipynb)
 - [ ] Machine Learning Prediction
 
 ### [groceries](https://github.com/okkymabruri/data-analysis-projects/tree/master/groceries)
