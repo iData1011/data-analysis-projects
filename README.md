@@ -3,31 +3,27 @@
 ## TABLE OF CONTENT
 
 - [X] Exploratory Data Analysis Projects (EDA)
-	- [X] [iris](https://github.com/okkymabruri/data-analysis-projects/tree/master/iris)
-	- [X] [groceries](https://github.com/okkymabruri/data-analysis-projects/tree/master/groceries)
+	- [X] [groceries](/groceries)
+	- [X] [iris](/iris)
+	- [ ] [market-basket-id-ndsc-2020](/market-basket-id-ndsc-2020)
 - [ ] Sentiment Analysis
 - [ ] Recommendation
 	- [ ] Movie Recommendation
 
 ## IDEAS
 
-### [iris](https://github.com/okkymabruri/data-analysis-projects/tree/master/iris)
+### [groceries](/groceries)
+Language : R
+
+- [X] [Association rules](/groceries/groceries.Rmd)
+
+### [iris](/iris)
 Language : Python
 
 - [X] Analysis
-- [ ] Classification
-- [X] [SVM with tuning parameter](https://github.com/okkymabruri/data-analysis-projects/tree/master/iris/iris-svm-tuning-parameter.ipynb)
+- [ ] Correlation [Pearson](/iris/iris-pearson.ipynb)
+- [X] [SVM with tuning parameter](/iris/iris-svm-tuning-parameter.ipynb)
 - [ ] Machine Learning Prediction
 
-### [groceries](https://github.com/okkymabruri/data-analysis-projects/tree/master/groceries)
-Language : R
-
-- [X] Association rules
-
-
-<!--
---PIC
-
---LINK NOTEBOOK
-
---Feature
+### [market-basket-id-ndsc-2020](/market-basket-id-ndsc-2020)
+Language : Python
