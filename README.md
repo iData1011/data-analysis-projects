@@ -15,7 +15,7 @@
 ### [groceries](/groceries)
 Language : R
 
-- [X] [Association rules](/groceries/groceries association rules_R.ipynb)
+- [X] [Association rules](/groceries/groceries.Rmd)
 
 ### [iris](/iris)
 Language : Python
