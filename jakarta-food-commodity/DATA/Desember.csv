@@ -1,0 +1,723 @@
+TANGGAL,KOMODITI,SATUAN,HARGA
+3/12/2018,Beras Medium,Kg,10790
+4/12/2018,Beras Medium,Kg,10590
+5/12/2018,Beras Medium,Kg,10500
+6/12/2018,Beras Medium,Kg,10450
+7/12/2018,Beras Medium,Kg,10500
+10/12/2018,Beras Medium,Kg,10500
+11/12/2018,Beras Medium,Kg,10350
+12/12/2018,Beras Medium,Kg,10590
+13/12/2018,Beras Medium,Kg,10540
+14/12/2018,Beras Medium,Kg,10590
+17/12/2018,Beras Medium,Kg,10550
+18/12/2018,Beras Medium,Kg,13262.5
+19/12/2018,Beras Medium,Kg,13387.5
+20/12/2018,Beras Medium,Kg,13250
+21/12/2018,Beras Medium,Kg,13187.5
+26/12/2018,Beras Medium,Kg,13187.5
+27/12/2018,Beras Medium,Kg,13250
+28/12/2018,Beras Medium,Kg,13375
+31/12/2018,Beras Medium,Kg,13375
+3/12/2018,Beras Premium,Kg,13137.5
+4/12/2018,Beras Premium,Kg,13012.5
+5/12/2018,Beras Premium,Kg,13125
+6/12/2018,Beras Premium,Kg,13062.5
+7/12/2018,Beras Premium,Kg,12625
+10/12/2018,Beras Premium,Kg,12625
+11/12/2018,Beras Premium,Kg,12250
+12/12/2018,Beras Premium,Kg,12375
+13/12/2018,Beras Premium,Kg,12375
+14/12/2018,Beras Premium,Kg,12375
+17/12/2018,Beras Premium,Kg,12437.5
+18/12/2018,Beras Premium,Kg,12437.5
+19/12/2018,Beras Premium,Kg,12500
+20/12/2018,Beras Premium,Kg,12500
+21/12/2018,Beras Premium,Kg,12437.5
+26/12/2018,Beras Premium,Kg,12375
+27/12/2018,Beras Premium,Kg,12700
+28/12/2018,Beras Premium,Kg,12825
+31/12/2018,Beras Premium,Kg,12825
+3/12/2018,Gula Pasir,Kg,12900
+4/12/2018,Gula Pasir,Kg,12600
+5/12/2018,Gula Pasir,Kg,12810
+6/12/2018,Gula Pasir,Kg,12860
+7/12/2018,Gula Pasir,Kg,12760
+10/12/2018,Gula Pasir,Kg,12760
+11/12/2018,Gula Pasir,Kg,12460
+12/12/2018,Gula Pasir,Kg,12490
+13/12/2018,Gula Pasir,Kg,12540
+14/12/2018,Gula Pasir,Kg,12890
+17/12/2018,Gula Pasir,Kg,12910
+18/12/2018,Gula Pasir,Kg,12510
+19/12/2018,Gula Pasir,Kg,12460
+20/12/2018,Gula Pasir,Kg,12360
+21/12/2018,Gula Pasir,Kg,12360
+26/12/2018,Gula Pasir,Kg,12560
+27/12/2018,Gula Pasir,Kg,13060
+28/12/2018,Gula Pasir,Kg,12910
+31/12/2018,Gula Pasir,Kg,12910
+3/12/2018,Minyak Goreng Bimoli Botol,Liter,13640
+4/12/2018,Minyak Goreng Bimoli Botol,Liter,13340
+5/12/2018,Minyak Goreng Bimoli Botol,Liter,13300
+6/12/2018,Minyak Goreng Bimoli Botol,Liter,13300
+7/12/2018,Minyak Goreng Bimoli Botol,Liter,13400
+10/12/2018,Minyak Goreng Bimoli Botol,Liter,13400
+11/12/2018,Minyak Goreng Bimoli Botol,Liter,13500
+12/12/2018,Minyak Goreng Bimoli Botol,Liter,13460
+13/12/2018,Minyak Goreng Bimoli Botol,Liter,13460
+14/12/2018,Minyak Goreng Bimoli Botol,Liter,13060
+17/12/2018,Minyak Goreng Bimoli Botol,Liter,13060
+18/12/2018,Minyak Goreng Bimoli Botol,Liter,13340
+19/12/2018,Minyak Goreng Bimoli Botol,Liter,13140
+20/12/2018,Minyak Goreng Bimoli Botol,Liter,13140
+21/12/2018,Minyak Goreng Bimoli Botol,Liter,13340
+26/12/2018,Minyak Goreng Bimoli Botol,Liter,13240
+27/12/2018,Minyak Goreng Bimoli Botol,Liter,13560
+28/12/2018,Minyak Goreng Bimoli Botol,Liter,13560
+31/12/2018,Minyak Goreng Bimoli Botol,Liter,13560
+3/12/2018,Minyak Goreng Curah,Liter,12060
+4/12/2018,Minyak Goreng Curah,Liter,11660
+5/12/2018,Minyak Goreng Curah,Liter,11760
+6/12/2018,Minyak Goreng Curah,Liter,11810
+7/12/2018,Minyak Goreng Curah,Liter,11660
+10/12/2018,Minyak Goreng Curah,Liter,11860
+11/12/2018,Minyak Goreng Curah,Liter,11860
+12/12/2018,Minyak Goreng Curah,Liter,11950
+13/12/2018,Minyak Goreng Curah,Liter,11950
+14/12/2018,Minyak Goreng Curah,Liter,11600
+17/12/2018,Minyak Goreng Curah,Liter,11760
+18/12/2018,Minyak Goreng Curah,Liter,11560
+19/12/2018,Minyak Goreng Curah,Liter,11560
+20/12/2018,Minyak Goreng Curah,Liter,11560
+21/12/2018,Minyak Goreng Curah,Liter,11260
+26/12/2018,Minyak Goreng Curah,Liter,11560
+27/12/2018,Minyak Goreng Curah,Liter,11600
+28/12/2018,Minyak Goreng Curah,Liter,11700
+31/12/2018,Minyak Goreng Curah,Liter,11700
+3/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,118000
+4/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,122500
+5/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123160
+6/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123660
+7/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123660
+10/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123660
+11/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123660
+12/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123660
+13/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123660
+14/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123660
+17/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123660
+18/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123340
+19/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123340
+20/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123340
+21/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123340
+26/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,122840
+27/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123660
+28/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123660
+31/12/2018,"Daging Sapi, Lokal, Paha Belakang",Kg,123660
+3/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,126666.6667
+4/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+5/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+6/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+7/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+10/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,121666.6667
+11/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+12/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+13/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,121666.6667
+14/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+17/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+18/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+19/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+20/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+21/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+26/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,121666.6667
+27/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+28/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+31/12/2018,"Daging Sapi, Lokal, Daging, Has Luar (Sirloin)",Kg,120000
+3/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,106666.6667
+4/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,90000
+5/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,106666.6667
+6/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,106666.6667
+7/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,106666.6667
+10/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,108333.3333
+11/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,100000
+12/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,100000
+13/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,103333.3333
+14/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,93333.33333
+17/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,91666.66667
+18/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,93333.33333
+19/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,93333.33333
+20/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,93333.33333
+21/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,93333.33333
+26/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,95000
+27/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,105000
+28/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,106666.6667
+31/12/2018,"Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket)",Kg,105000
+3/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,65833.33333
+4/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,65000
+5/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,64166.66667
+6/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,66666.66667
+7/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,71666.66667
+10/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,73333.33333
+11/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,70000
+12/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,73333.33333
+13/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,80000
+14/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,66666.66667
+17/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,60000
+18/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,63333.33333
+19/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,60000
+20/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,64166.66667
+21/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,63333.33333
+26/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,66666.66667
+27/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,65000
+28/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,70000
+31/12/2018,"Daging Sapi, Lokal, Daging, Tetelan",Kg,70000
+3/12/2018,"Daging Sapi, Impor, Beku",Kg,90000
+4/12/2018,"Daging Sapi, Impor, Beku",Kg,90000
+5/12/2018,"Daging Sapi, Impor, Beku",Kg,85000
+6/12/2018,"Daging Sapi, Impor, Beku",Kg,85000
+7/12/2018,"Daging Sapi, Impor, Beku",Kg,85000
+10/12/2018,"Daging Sapi, Impor, Beku",Kg,85000
+11/12/2018,"Daging Sapi, Impor, Beku",Kg,85000
+12/12/2018,"Daging Sapi, Impor, Beku",Kg,84150
+13/12/2018,"Daging Sapi, Impor, Beku",Kg,84150
+14/12/2018,"Daging Sapi, Impor, Beku",Kg,84150
+17/12/2018,"Daging Sapi, Impor, Beku",Kg,85850
+18/12/2018,"Daging Sapi, Impor, Beku",Kg,87500
+19/12/2018,"Daging Sapi, Impor, Beku",Kg,87500
+20/12/2018,"Daging Sapi, Impor, Beku",Kg,86650
+21/12/2018,"Daging Sapi, Impor, Beku",Kg,86650
+26/12/2018,"Daging Sapi, Impor, Beku",Kg,86650
+27/12/2018,"Daging Sapi, Impor, Beku",Kg,85850
+28/12/2018,"Daging Sapi, Impor, Beku",Kg,85850
+31/12/2018,"Daging Sapi, Impor, Beku",Kg,85850
+3/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,146666.6667
+4/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,143333.3333
+5/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,146666.6667
+6/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,146666.6667
+7/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,146666.6667
+10/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,148333.3333
+11/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,143333.3333
+12/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,143333.3333
+13/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,146666.6667
+14/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,143333.3333
+17/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,143333.3333
+18/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,143333.3333
+19/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,143333.3333
+20/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,143333.3333
+21/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,143333.3333
+26/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,145000
+27/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,146666.6667
+28/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,146666.6667
+31/12/2018,"Daging Sapi, Lokal, Has Dalam",Kg,146666.6667
+3/12/2018,Ayam Boiler,ekor,38060
+4/12/2018,Ayam Boiler,ekor,37560
+5/12/2018,Ayam Boiler,ekor,37460
+6/12/2018,Ayam Boiler,ekor,37060
+7/12/2018,Ayam Boiler,ekor,36860
+10/12/2018,Ayam Boiler,ekor,37460
+11/12/2018,Ayam Boiler,ekor,37660
+12/12/2018,Ayam Boiler,ekor,37560
+13/12/2018,Ayam Boiler,ekor,37360
+14/12/2018,Ayam Boiler,ekor,37760
+17/12/2018,Ayam Boiler,ekor,37640
+18/12/2018,Ayam Boiler,ekor,39060
+19/12/2018,Ayam Boiler,ekor,39060
+20/12/2018,Ayam Boiler,ekor,39060
+21/12/2018,Ayam Boiler,ekor,38860
+26/12/2018,Ayam Boiler,ekor,39060
+27/12/2018,Ayam Boiler,ekor,40200
+28/12/2018,Ayam Boiler,ekor,39200
+31/12/2018,Ayam Boiler,ekor,39200
+3/12/2018,Ayam Kampung,ekor,93325
+4/12/2018,Ayam Kampung,ekor,88325
+5/12/2018,Ayam Kampung,ekor,90825
+6/12/2018,Ayam Kampung,ekor,90825
+7/12/2018,Ayam Kampung,ekor,90825
+10/12/2018,Ayam Kampung,ekor,89575
+11/12/2018,Ayam Kampung,ekor,78325
+12/12/2018,Ayam Kampung,ekor,80000
+13/12/2018,Ayam Kampung,ekor,84375
+14/12/2018,Ayam Kampung,ekor,83750
+17/12/2018,Ayam Kampung,ekor,83925
+18/12/2018,Ayam Kampung,ekor,83750
+19/12/2018,Ayam Kampung,ekor,83750
+20/12/2018,Ayam Kampung,ekor,83750
+21/12/2018,Ayam Kampung,ekor,86250
+26/12/2018,Ayam Kampung,ekor,83750
+27/12/2018,Ayam Kampung,ekor,95000
+28/12/2018,Ayam Kampung,ekor,95000
+31/12/2018,Ayam Kampung,ekor,95000
+3/12/2018,Telur Ayam Ras,Kg,23940
+4/12/2018,Telur Ayam Ras,Kg,23940
+5/12/2018,Telur Ayam Ras,Kg,24600
+6/12/2018,Telur Ayam Ras,Kg,24600
+7/12/2018,Telur Ayam Ras,Kg,25400
+10/12/2018,Telur Ayam Ras,Kg,25400
+11/12/2018,Telur Ayam Ras,Kg,25500
+12/12/2018,Telur Ayam Ras,Kg,25460
+13/12/2018,Telur Ayam Ras,Kg,25260
+14/12/2018,Telur Ayam Ras,Kg,26060
+17/12/2018,Telur Ayam Ras,Kg,26200
+18/12/2018,Telur Ayam Ras,Kg,26660
+19/12/2018,Telur Ayam Ras,Kg,26660
+20/12/2018,Telur Ayam Ras,Kg,26600
+21/12/2018,Telur Ayam Ras,Kg,26500
+26/12/2018,Telur Ayam Ras,Kg,26600
+27/12/2018,Telur Ayam Ras,Kg,26740
+28/12/2018,Telur Ayam Ras,Kg,26740
+31/12/2018,Telur Ayam Ras,Kg,26740
+3/12/2018,Telur Ayam Kampung,butir,2300
+4/12/2018,Telur Ayam Kampung,butir,2200
+5/12/2018,Telur Ayam Kampung,butir,2300
+6/12/2018,Telur Ayam Kampung,butir,2300
+7/12/2018,Telur Ayam Kampung,butir,2390
+10/12/2018,Telur Ayam Kampung,butir,2340
+11/12/2018,Telur Ayam Kampung,butir,2340
+12/12/2018,Telur Ayam Kampung,butir,2370
+13/12/2018,Telur Ayam Kampung,butir,2370
+14/12/2018,Telur Ayam Kampung,butir,2220
+17/12/2018,Telur Ayam Kampung,butir,2190
+18/12/2018,Telur Ayam Kampung,butir,2240
+19/12/2018,Telur Ayam Kampung,butir,2190
+20/12/2018,Telur Ayam Kampung,butir,2340
+21/12/2018,Telur Ayam Kampung,butir,2340
+26/12/2018,Telur Ayam Kampung,butir,2320
+27/12/2018,Telur Ayam Kampung,butir,2340
+28/12/2018,Telur Ayam Kampung,butir,2340
+31/12/2018,Telur Ayam Kampung,butir,2340
+3/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,12160
+4/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,11560
+5/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,12060
+6/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,12060
+7/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,12060
+10/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,12060
+11/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,11460
+12/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,11500
+13/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,11500
+14/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,11500
+17/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,11460
+18/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,11460
+19/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,11460
+20/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,11460
+21/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,11510
+26/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,11460
+27/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,12100
+28/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,12100
+31/12/2018,Susu Kental Manis Kaleng Merk Bendera,buah,12100
+3/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,10160
+4/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,10260
+5/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9820
+6/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9820
+7/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9820
+10/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9820
+11/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9920
+12/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9960
+13/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9960
+14/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9860
+17/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9820
+18/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9820
+19/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9820
+20/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9820
+21/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9820
+26/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9820
+27/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9960
+28/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9960
+31/12/2018,Susu Kental Manis Kaleng Merk Indomilk,buah,9960
+3/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44500
+4/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44500
+5/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44750
+6/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44750
+7/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44750
+10/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44750
+11/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44750
+12/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44575
+13/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44575
+14/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44575
+17/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44450
+18/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44375
+19/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44375
+20/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44375
+21/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44375
+26/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44375
+27/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44375
+28/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44375
+31/12/2018,Susu Bubuk Kaleng Merk Bendera,buah,44375
+3/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42800
+4/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42800
+5/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42675
+6/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42675
+7/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42675
+10/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42675
+11/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42675
+12/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42500
+13/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42500
+14/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42500
+17/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42425
+18/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42325
+19/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42325
+20/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42325
+21/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42325
+26/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42325
+27/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42450
+28/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42450
+31/12/2018,Susu Bubuk Kaleng Merk Indomilk,buah,42450
+3/12/2018,Jagung Pipilan Kecil,Kg,16000
+4/12/2018,Jagung Pipilan Kecil,Kg,16000
+5/12/2018,Jagung Pipilan Kecil,Kg,15400
+6/12/2018,Jagung Pipilan Kecil,Kg,15400
+7/12/2018,Jagung Pipilan Kecil,Kg,15400
+10/12/2018,Jagung Pipilan Kecil,Kg,15400
+11/12/2018,Jagung Pipilan Kecil,Kg,15400
+12/12/2018,Jagung Pipilan Kecil,Kg,15433.33333
+13/12/2018,Jagung Pipilan Kecil,Kg,15433.33333
+14/12/2018,Jagung Pipilan Kecil,Kg,15433.33333
+17/12/2018,Jagung Pipilan Kecil,Kg,15900
+18/12/2018,Jagung Pipilan Kecil,Kg,16400
+19/12/2018,Jagung Pipilan Kecil,Kg,16400
+20/12/2018,Jagung Pipilan Kecil,Kg,16400
+21/12/2018,Jagung Pipilan Kecil,Kg,16400
+26/12/2018,Jagung Pipilan Kecil,Kg,16400
+27/12/2018,Jagung Pipilan Kecil,Kg,16400
+28/12/2018,Jagung Pipilan Kecil,Kg,16400
+31/12/2018,Jagung Pipilan Kecil,Kg,16400
+3/12/2018,Garam Beryodium Bata,250 gr,3600
+4/12/2018,Garam Beryodium Bata,250 gr,3200
+5/12/2018,Garam Beryodium Bata,250 gr,3120
+6/12/2018,Garam Beryodium Bata,250 gr,3120
+7/12/2018,Garam Beryodium Bata,250 gr,3520
+10/12/2018,Garam Beryodium Bata,250 gr,3920
+11/12/2018,Garam Beryodium Bata,250 gr,3700
+12/12/2018,Garam Beryodium Bata,250 gr,3780
+13/12/2018,Garam Beryodium Bata,250 gr,3780
+14/12/2018,Garam Beryodium Bata,250 gr,3780
+17/12/2018,Garam Beryodium Bata,250 gr,3780
+18/12/2018,Garam Beryodium Bata,250 gr,3620
+19/12/2018,Garam Beryodium Bata,250 gr,3620
+20/12/2018,Garam Beryodium Bata,250 gr,3620
+21/12/2018,Garam Beryodium Bata,250 gr,3620
+26/12/2018,Garam Beryodium Bata,250 gr,3820
+27/12/2018,Garam Beryodium Bata,250 gr,3600
+28/12/2018,Garam Beryodium Bata,250 gr,3800
+31/12/2018,Garam Beryodium Bata,250 gr,3800
+3/12/2018,Garam Beryodium Halus,Kg,10400
+4/12/2018,Garam Beryodium Halus,Kg,10400
+5/12/2018,Garam Beryodium Halus,Kg,10200
+6/12/2018,Garam Beryodium Halus,Kg,10100
+7/12/2018,Garam Beryodium Halus,Kg,10200
+10/12/2018,Garam Beryodium Halus,Kg,10500
+11/12/2018,Garam Beryodium Halus,Kg,10700
+12/12/2018,Garam Beryodium Halus,Kg,10860
+13/12/2018,Garam Beryodium Halus,Kg,10860
+14/12/2018,Garam Beryodium Halus,Kg,10360
+17/12/2018,Garam Beryodium Halus,Kg,10600
+18/12/2018,Garam Beryodium Halus,Kg,10600
+19/12/2018,Garam Beryodium Halus,Kg,10500
+20/12/2018,Garam Beryodium Halus,Kg,10500
+21/12/2018,Garam Beryodium Halus,Kg,10600
+26/12/2018,Garam Beryodium Halus,Kg,10900
+27/12/2018,Garam Beryodium Halus,Kg,10000
+28/12/2018,Garam Beryodium Halus,Kg,10300
+31/12/2018,Garam Beryodium Halus,Kg,10300
+3/12/2018,Tepung Terigu Segitiga Biru,Kg,10740
+4/12/2018,Tepung Terigu Segitiga Biru,Kg,10040
+5/12/2018,Tepung Terigu Segitiga Biru,Kg,9660
+6/12/2018,Tepung Terigu Segitiga Biru,Kg,9760
+7/12/2018,Tepung Terigu Segitiga Biru,Kg,9660
+10/12/2018,Tepung Terigu Segitiga Biru,Kg,9760
+11/12/2018,Tepung Terigu Segitiga Biru,Kg,9760
+12/12/2018,Tepung Terigu Segitiga Biru,Kg,9960
+13/12/2018,Tepung Terigu Segitiga Biru,Kg,9960
+14/12/2018,Tepung Terigu Segitiga Biru,Kg,9760
+17/12/2018,Tepung Terigu Segitiga Biru,Kg,9700
+18/12/2018,Tepung Terigu Segitiga Biru,Kg,9500
+19/12/2018,Tepung Terigu Segitiga Biru,Kg,9700
+20/12/2018,Tepung Terigu Segitiga Biru,Kg,9740
+21/12/2018,Tepung Terigu Segitiga Biru,Kg,9740
+26/12/2018,Tepung Terigu Segitiga Biru,Kg,9740
+27/12/2018,Tepung Terigu Segitiga Biru,Kg,9700
+28/12/2018,Tepung Terigu Segitiga Biru,Kg,9800
+31/12/2018,Tepung Terigu Segitiga Biru,Kg,9800
+3/12/2018,Kacang Kedelai Eks Impor,Kg,13750
+4/12/2018,Kacang Kedelai Eks Impor,Kg,12125
+5/12/2018,Kacang Kedelai Eks Impor,Kg,13075
+6/12/2018,Kacang Kedelai Eks Impor,Kg,13075
+7/12/2018,Kacang Kedelai Eks Impor,Kg,12575
+10/12/2018,Kacang Kedelai Eks Impor,Kg,13200
+11/12/2018,Kacang Kedelai Eks Impor,Kg,12200
+12/12/2018,Kacang Kedelai Eks Impor,Kg,12200
+13/12/2018,Kacang Kedelai Eks Impor,Kg,12450
+14/12/2018,Kacang Kedelai Eks Impor,Kg,12075
+17/12/2018,Kacang Kedelai Eks Impor,Kg,12075
+18/12/2018,Kacang Kedelai Eks Impor,Kg,12075
+19/12/2018,Kacang Kedelai Eks Impor,Kg,12075
+20/12/2018,Kacang Kedelai Eks Impor,Kg,12075
+21/12/2018,Kacang Kedelai Eks Impor,Kg,11825
+26/12/2018,Kacang Kedelai Eks Impor,Kg,12200
+27/12/2018,Kacang Kedelai Eks Impor,Kg,12825
+28/12/2018,Kacang Kedelai Eks Impor,Kg,12950
+31/12/2018,Kacang Kedelai Eks Impor,Kg,12950
+3/12/2018,Kacang Kedelai Lokal,Kg,12100
+4/12/2018,Kacang Kedelai Lokal,Kg,12100
+5/12/2018,Kacang Kedelai Lokal,Kg,11850
+6/12/2018,Kacang Kedelai Lokal,Kg,11850
+7/12/2018,Kacang Kedelai Lokal,Kg,11850
+10/12/2018,Kacang Kedelai Lokal,Kg,11850
+11/12/2018,Kacang Kedelai Lokal,Kg,11850
+12/12/2018,Kacang Kedelai Lokal,Kg,11900
+13/12/2018,Kacang Kedelai Lokal,Kg,11900
+14/12/2018,Kacang Kedelai Lokal,Kg,11900
+17/12/2018,Kacang Kedelai Lokal,Kg,12250
+18/12/2018,Kacang Kedelai Lokal,Kg,12250
+19/12/2018,Kacang Kedelai Lokal,Kg,12250
+20/12/2018,Kacang Kedelai Lokal,Kg,12100
+21/12/2018,Kacang Kedelai Lokal,Kg,12100
+26/12/2018,Kacang Kedelai Lokal,Kg,12100
+27/12/2018,Kacang Kedelai Lokal,Kg,12100
+28/12/2018,Kacang Kedelai Lokal,Kg,12100
+31/12/2018,Kacang Kedelai Lokal,Kg,12100
+3/12/2018,Indomie Rasa Kari Ayam,buah,2460
+4/12/2018,Indomie Rasa Kari Ayam,buah,2460
+5/12/2018,Indomie Rasa Kari Ayam,buah,2440
+6/12/2018,Indomie Rasa Kari Ayam,buah,2440
+7/12/2018,Indomie Rasa Kari Ayam,buah,2440
+10/12/2018,Indomie Rasa Kari Ayam,buah,2440
+11/12/2018,Indomie Rasa Kari Ayam,buah,2440
+12/12/2018,Indomie Rasa Kari Ayam,buah,2440
+13/12/2018,Indomie Rasa Kari Ayam,buah,2440
+14/12/2018,Indomie Rasa Kari Ayam,buah,2440
+17/12/2018,Indomie Rasa Kari Ayam,buah,2460
+18/12/2018,Indomie Rasa Kari Ayam,buah,2460
+19/12/2018,Indomie Rasa Kari Ayam,buah,2460
+20/12/2018,Indomie Rasa Kari Ayam,buah,2460
+21/12/2018,Indomie Rasa Kari Ayam,buah,2460
+26/12/2018,Indomie Rasa Kari Ayam,buah,2460
+27/12/2018,Indomie Rasa Kari Ayam,buah,2460
+28/12/2018,Indomie Rasa Kari Ayam,buah,2460
+31/12/2018,Indomie Rasa Kari Ayam,buah,2460
+3/12/2018,Cabai Merah Kriting,Kg,35760
+4/12/2018,Cabai Merah Kriting,Kg,33760
+5/12/2018,Cabai Merah Kriting,Kg,32360
+6/12/2018,Cabai Merah Kriting,Kg,32660
+7/12/2018,Cabai Merah Kriting,Kg,31660
+10/12/2018,Cabai Merah Kriting,Kg,33160
+11/12/2018,Cabai Merah Kriting,Kg,31660
+12/12/2018,Cabai Merah Kriting,Kg,32540
+13/12/2018,Cabai Merah Kriting,Kg,34040
+14/12/2018,Cabai Merah Kriting,Kg,32540
+17/12/2018,Cabai Merah Kriting,Kg,33560
+18/12/2018,Cabai Merah Kriting,Kg,34260
+19/12/2018,Cabai Merah Kriting,Kg,34460
+20/12/2018,Cabai Merah Kriting,Kg,33160
+21/12/2018,Cabai Merah Kriting,Kg,33660
+26/12/2018,Cabai Merah Kriting,Kg,34060
+27/12/2018,Cabai Merah Kriting,Kg,32800
+28/12/2018,Cabai Merah Kriting,Kg,33300
+31/12/2018,Cabai Merah Kriting,Kg,32800
+3/12/2018,Cabai Merah Besar,Kg,36660
+4/12/2018,Cabai Merah Besar,Kg,37160
+5/12/2018,Cabai Merah Besar,Kg,32260
+6/12/2018,Cabai Merah Besar,Kg,32660
+7/12/2018,Cabai Merah Besar,Kg,33160
+10/12/2018,Cabai Merah Besar,Kg,33660
+11/12/2018,Cabai Merah Besar,Kg,35660
+12/12/2018,Cabai Merah Besar,Kg,36340
+13/12/2018,Cabai Merah Besar,Kg,38840
+14/12/2018,Cabai Merah Besar,Kg,40840
+17/12/2018,Cabai Merah Besar,Kg,43340
+18/12/2018,Cabai Merah Besar,Kg,41840
+19/12/2018,Cabai Merah Besar,Kg,42840
+20/12/2018,Cabai Merah Besar,Kg,42200
+21/12/2018,Cabai Merah Besar,Kg,42200
+26/12/2018,Cabai Merah Besar,Kg,43700
+27/12/2018,Cabai Merah Besar,Kg,40560
+28/12/2018,Cabai Merah Besar,Kg,40060
+31/12/2018,Cabai Merah Besar,Kg,40560
+3/12/2018,Cabai Rawit Merah,Kg,35360
+4/12/2018,Cabai Rawit Merah,Kg,34360
+5/12/2018,Cabai Rawit Merah,Kg,32900
+6/12/2018,Cabai Rawit Merah,Kg,32300
+7/12/2018,Cabai Rawit Merah,Kg,30800
+10/12/2018,Cabai Rawit Merah,Kg,32300
+11/12/2018,Cabai Rawit Merah,Kg,30800
+12/12/2018,Cabai Rawit Merah,Kg,31660
+13/12/2018,Cabai Rawit Merah,Kg,33660
+14/12/2018,Cabai Rawit Merah,Kg,33160
+17/12/2018,Cabai Rawit Merah,Kg,33160
+18/12/2018,Cabai Rawit Merah,Kg,34240
+19/12/2018,Cabai Rawit Merah,Kg,37240
+20/12/2018,Cabai Rawit Merah,Kg,37100
+21/12/2018,Cabai Rawit Merah,Kg,37600
+26/12/2018,Cabai Rawit Merah,Kg,43900
+27/12/2018,Cabai Rawit Merah,Kg,49440
+28/12/2018,Cabai Rawit Merah,Kg,48340
+31/12/2018,Cabai Rawit Merah,Kg,48340
+3/12/2018,Cabai Rawit Hijau,Kg,35500
+4/12/2018,Cabai Rawit Hijau,Kg,32500
+5/12/2018,Cabai Rawit Hijau,Kg,29960
+6/12/2018,Cabai Rawit Hijau,Kg,30460
+7/12/2018,Cabai Rawit Hijau,Kg,29260
+10/12/2018,Cabai Rawit Hijau,Kg,29960
+11/12/2018,Cabai Rawit Hijau,Kg,30260
+12/12/2018,Cabai Rawit Hijau,Kg,30840
+13/12/2018,Cabai Rawit Hijau,Kg,31840
+14/12/2018,Cabai Rawit Hijau,Kg,31740
+17/12/2018,Cabai Rawit Hijau,Kg,32960
+18/12/2018,Cabai Rawit Hijau,Kg,32240
+19/12/2018,Cabai Rawit Hijau,Kg,31740
+20/12/2018,Cabai Rawit Hijau,Kg,28440
+21/12/2018,Cabai Rawit Hijau,Kg,27240
+26/12/2018,Cabai Rawit Hijau,Kg,27440
+27/12/2018,Cabai Rawit Hijau,Kg,28440
+28/12/2018,Cabai Rawit Hijau,Kg,28440
+31/12/2018,Cabai Rawit Hijau,Kg,28440
+3/12/2018,Bawang Merah (Medium),Kg,30160
+4/12/2018,Bawang Merah (Medium),Kg,32360
+5/12/2018,Bawang Merah (Medium),Kg,31400
+6/12/2018,Bawang Merah (Medium),Kg,31400
+7/12/2018,Bawang Merah (Medium),Kg,30200
+10/12/2018,Bawang Merah (Medium),Kg,30500
+11/12/2018,Bawang Merah (Medium),Kg,30600
+12/12/2018,Bawang Merah (Medium),Kg,31060
+13/12/2018,Bawang Merah (Medium),Kg,31360
+14/12/2018,Bawang Merah (Medium),Kg,31960
+17/12/2018,Bawang Merah (Medium),Kg,30940
+18/12/2018,Bawang Merah (Medium),Kg,30600
+19/12/2018,Bawang Merah (Medium),Kg,31000
+20/12/2018,Bawang Merah (Medium),Kg,30460
+21/12/2018,Bawang Merah (Medium),Kg,30260
+26/12/2018,Bawang Merah (Medium),Kg,30960
+27/12/2018,Bawang Merah (Medium),Kg,30740
+28/12/2018,Bawang Merah (Medium),Kg,31440
+31/12/2018,Bawang Merah (Medium),Kg,31440
+3/12/2018,"Bawang Putih Impor, Kating",Kg,29100
+4/12/2018,"Bawang Putih Impor, Kating",Kg,28100
+5/12/2018,"Bawang Putih Impor, Kating",Kg,27960
+6/12/2018,"Bawang Putih Impor, Kating",Kg,27260
+7/12/2018,"Bawang Putih Impor, Kating",Kg,28960
+10/12/2018,"Bawang Putih Impor, Kating",Kg,28860
+11/12/2018,"Bawang Putih Impor, Kating",Kg,28460
+12/12/2018,"Bawang Putih Impor, Kating",Kg,29740
+13/12/2018,"Bawang Putih Impor, Kating",Kg,29340
+14/12/2018,"Bawang Putih Impor, Kating",Kg,27840
+17/12/2018,"Bawang Putih Impor, Kating",Kg,28040
+18/12/2018,"Bawang Putih Impor, Kating",Kg,28040
+19/12/2018,"Bawang Putih Impor, Kating",Kg,28740
+20/12/2018,"Bawang Putih Impor, Kating",Kg,28160
+21/12/2018,"Bawang Putih Impor, Kating",Kg,28160
+26/12/2018,"Bawang Putih Impor, Kating",Kg,27860
+27/12/2018,"Bawang Putih Impor, Kating",Kg,27260
+28/12/2018,"Bawang Putih Impor, Kating",Kg,27260
+31/12/2018,"Bawang Putih Impor, Kating",Kg,27260
+3/12/2018,"Bawang Putih Impor, Honan",Kg,25500
+4/12/2018,"Bawang Putih Impor, Honan",Kg,27500
+5/12/2018,"Bawang Putih Impor, Honan",Kg,26500
+6/12/2018,"Bawang Putih Impor, Honan",Kg,26500
+7/12/2018,"Bawang Putih Impor, Honan",Kg,25500
+10/12/2018,"Bawang Putih Impor, Honan",Kg,25500
+11/12/2018,"Bawang Putih Impor, Honan",Kg,26500
+12/12/2018,"Bawang Putih Impor, Honan",Kg,26500
+13/12/2018,"Bawang Putih Impor, Honan",Kg,26500
+14/12/2018,"Bawang Putih Impor, Honan",Kg,29000
+17/12/2018,"Bawang Putih Impor, Honan",Kg,28000
+18/12/2018,"Bawang Putih Impor, Honan",Kg,26500
+19/12/2018,"Bawang Putih Impor, Honan",Kg,26500
+20/12/2018,"Bawang Putih Impor, Honan",Kg,26500
+21/12/2018,"Bawang Putih Impor, Honan",Kg,26500
+26/12/2018,"Bawang Putih Impor, Honan",Kg,26500
+27/12/2018,"Bawang Putih Impor, Honan",Kg,25500
+28/12/2018,"Bawang Putih Impor, Honan",Kg,25500
+31/12/2018,"Bawang Putih Impor, Honan",Kg,25500
+3/12/2018,Ikan Teri Asin,Kg,120660
+4/12/2018,Ikan Teri Asin,Kg,121660
+5/12/2018,Ikan Teri Asin,Kg,115800
+6/12/2018,Ikan Teri Asin,Kg,115800
+7/12/2018,Ikan Teri Asin,Kg,114500
+10/12/2018,Ikan Teri Asin,Kg,116800
+11/12/2018,Ikan Teri Asin,Kg,119800
+12/12/2018,Ikan Teri Asin,Kg,120740
+13/12/2018,Ikan Teri Asin,Kg,119740
+14/12/2018,Ikan Teri Asin,Kg,113740
+17/12/2018,Ikan Teri Asin,Kg,114360
+18/12/2018,Ikan Teri Asin,Kg,110260
+19/12/2018,Ikan Teri Asin,Kg,110260
+20/12/2018,Ikan Teri Asin,Kg,110600
+21/12/2018,Ikan Teri Asin,Kg,109600
+26/12/2018,Ikan Teri Asin,Kg,114600
+27/12/2018,Ikan Teri Asin,Kg,109800
+28/12/2018,Ikan Teri Asin,Kg,111800
+31/12/2018,Ikan Teri Asin,Kg,111800
+3/12/2018,Ikan Kembung,Kg,39160
+4/12/2018,Ikan Kembung,Kg,40160
+5/12/2018,Ikan Kembung,Kg,40840
+6/12/2018,Ikan Kembung,Kg,40840
+7/12/2018,Ikan Kembung,Kg,40840
+10/12/2018,Ikan Kembung,Kg,41340
+11/12/2018,Ikan Kembung,Kg,41840
+12/12/2018,Ikan Kembung,Kg,40840
+13/12/2018,Ikan Kembung,Kg,41340
+14/12/2018,Ikan Kembung,Kg,39840
+17/12/2018,Ikan Kembung,Kg,39600
+18/12/2018,Ikan Kembung,Kg,38800
+19/12/2018,Ikan Kembung,Kg,38300
+20/12/2018,Ikan Kembung,Kg,38800
+21/12/2018,Ikan Kembung,Kg,37800
+26/12/2018,Ikan Kembung,Kg,39300
+27/12/2018,Ikan Kembung,Kg,38800
+28/12/2018,Ikan Kembung,Kg,38800
+31/12/2018,Ikan Kembung,Kg,38800
+3/12/2018,Kacang Hijau,Kg,23900
+4/12/2018,Kacang Hijau,Kg,23000
+5/12/2018,Kacang Hijau,Kg,22400
+6/12/2018,Kacang Hijau,Kg,22400
+7/12/2018,Kacang Hijau,Kg,22100
+10/12/2018,Kacang Hijau,Kg,22400
+11/12/2018,Kacang Hijau,Kg,22000
+12/12/2018,Kacang Hijau,Kg,22040
+13/12/2018,Kacang Hijau,Kg,21940
+14/12/2018,Kacang Hijau,Kg,21340
+17/12/2018,Kacang Hijau,Kg,21160
+18/12/2018,Kacang Hijau,Kg,21760
+19/12/2018,Kacang Hijau,Kg,21560
+20/12/2018,Kacang Hijau,Kg,21300
+21/12/2018,Kacang Hijau,Kg,21100
+26/12/2018,Kacang Hijau,Kg,21400
+27/12/2018,Kacang Hijau,Kg,21900
+28/12/2018,Kacang Hijau,Kg,21800
+31/12/2018,Kacang Hijau,Kg,21800
+3/12/2018,Kacang Tanah,Kg,25900
+4/12/2018,Kacang Tanah,Kg,25300
+5/12/2018,Kacang Tanah,Kg,26000
+6/12/2018,Kacang Tanah,Kg,26100
+7/12/2018,Kacang Tanah,Kg,26400
+10/12/2018,Kacang Tanah,Kg,26100
+11/12/2018,Kacang Tanah,Kg,25700
+12/12/2018,Kacang Tanah,Kg,25660
+13/12/2018,Kacang Tanah,Kg,25660
+14/12/2018,Kacang Tanah,Kg,25360
+17/12/2018,Kacang Tanah,Kg,25040
+18/12/2018,Kacang Tanah,Kg,22560
+19/12/2018,Kacang Tanah,Kg,22760
+20/12/2018,Kacang Tanah,Kg,22760
+21/12/2018,Kacang Tanah,Kg,26300
+26/12/2018,Kacang Tanah,Kg,25600
+27/12/2018,Kacang Tanah,Kg,25200
+28/12/2018,Kacang Tanah,Kg,25500
+31/12/2018,Kacang Tanah,Kg,25500
+3/12/2018,Ketela Pohon,Kg,5200
+4/12/2018,Ketela Pohon,Kg,5400
+5/12/2018,Ketela Pohon,Kg,5460
+6/12/2018,Ketela Pohon,Kg,5460
+7/12/2018,Ketela Pohon,Kg,5460
+10/12/2018,Ketela Pohon,Kg,5460
+11/12/2018,Ketela Pohon,Kg,5460
+12/12/2018,Ketela Pohon,Kg,5300
+13/12/2018,Ketela Pohon,Kg,5300
+14/12/2018,Ketela Pohon,Kg,5300
+17/12/2018,Ketela Pohon,Kg,5340
+18/12/2018,Ketela Pohon,Kg,5340
+19/12/2018,Ketela Pohon,Kg,5340
+20/12/2018,Ketela Pohon,Kg,5340
+21/12/2018,Ketela Pohon,Kg,5340
+26/12/2018,Ketela Pohon,Kg,5340
+27/12/2018,Ketela Pohon,Kg,5340
+28/12/2018,Ketela Pohon,Kg,5340
+31/12/2018,Ketela Pohon,Kg,5340
