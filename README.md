@@ -5,7 +5,9 @@
 - [x] Exploratory Data Analysis Projects (EDA)
   - [x] [groceries](/groceries)
   - [x] [iris](/iris)
+  - [x] [jakarta-food-commodity](/jakarta-food-commodity)
   - [ ] [market-basket-id-ndsc-2020](/market-basket-id-ndsc-2020)
+  - [ ] [payment-matching-id-ndsc-2020](/payment-matching-id-ndsc-2020)
 - [ ] Sentiment Analysis
 - [ ] Recommendation
   - [ ] Movie Recommendation
@@ -27,10 +29,16 @@ Language : Python
 - [x] [SVM with tuning parameter](/iris/iris-svm-tuning-parameter.ipynb)
 - [ ] Machine Learning Prediction
 
+### [jakarta-food-commodity](/jakarta-food-commodity)
+
+Language : Python
+
+- [x] Prediction
+
 ### [market-basket-id-ndsc-2020](/market-basket-id-ndsc-2020)
 
 Language : Python
 
-### [payment-matching-id-ndsc-2020](/payment-matching-ndsc-2020)
+### [payment-matching-id-ndsc-2020](/payment-matching-id-ndsc-2020)
 
 Language : Python
