@@ -1,4 +1,6 @@
-Mirror from:https://github.com/ikanurlaily/Prediksi-Harga-Komoditas-Pangan-di-Jakarta
+Author: [@ikanurlaily](https://github.com/ikanurlaily)
+
+Mirror from: https://github.com/ikanurlaily/Prediksi-Harga-Komoditas-Pangan-di-Jakarta
 
 Managed by: iData1011
 
