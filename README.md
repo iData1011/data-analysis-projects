@@ -6,8 +6,6 @@
   - [x] [groceries](/groceries)
   - [x] [iris](/iris)
   - [x] [jakarta-food-commodity](/jakarta-food-commodity)
-  - [ ] [market-basket-id-ndsc-2020](/market-basket-id-ndsc-2020)
-  - [ ] [payment-id-ndsc-2020](/payment-id-ndsc-2020)
 - [ ] Sentiment Analysis
 - [ ] Recommendation
   - [ ] Movie Recommendation
@@ -31,11 +29,3 @@ Language : Python
 
 Language : Python
 - [x] Prediction
-
-### [market-basket-id-ndsc-2020](/market-basket-id-ndsc-2020)
-
-Language : Python
-
-### [payment-id-ndsc-2020](/payment-id-ndsc-2020)
-
-Language : Python
